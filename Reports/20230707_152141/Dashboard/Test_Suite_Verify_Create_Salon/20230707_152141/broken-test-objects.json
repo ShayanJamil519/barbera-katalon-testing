@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/button_Login",
+      "brokenLocator": "//button[@type\u003d\u0027submit\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Contact Us\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230707_152141/Dashboard/Test_Suite_Verify_Create_Salon/20230707_152141/Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/button_Login_neighbor.png"
+    }
+  ]
+}

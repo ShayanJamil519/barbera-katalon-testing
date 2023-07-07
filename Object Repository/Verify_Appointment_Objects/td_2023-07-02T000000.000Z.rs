@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_2023-07-02T000000.000Z</name>
+   <tag></tag>
+   <elementGuidId>9eefb585-b46c-4816-96a0-3b05f5ab8aac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(7) > td.border__style</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[4]/div/div/div[2]/div/table/tbody/tr[7]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>20faaabb-a774-4b38-856f-cfc54db0bc08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border__style</value>
+      <webElementGuid>75e9b60e-1a64-475e-b292-33a203f9654e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2023-07-02T00:00:00.000Z</value>
+      <webElementGuid>f8eb3b98-2188-482f-80db-8d6ebc05d03d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[4]/div[1]/div[@class=&quot;flex flex-col sm:flex-row bg-black justify-around&quot;]/div[@class=&quot;w-full sm:w-1/2 my-12 flex flex-col content-center items-center&quot;]/div[1]/table[@class=&quot;bg-white border__style text-center&quot;]/tbody[1]/tr[7]/td[@class=&quot;border__style&quot;]</value>
+      <webElementGuid>93170960-cef5-47e1-8f22-18455328f22b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[4]/div/div/div[2]/div/table/tbody/tr[7]/td</value>
+      <webElementGuid>a3f28907-fc19-4f33-baa1-00d7a0638165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='stevie G'])[1]/following::td[1]</value>
+      <webElementGuid>bee24a1d-ddac-48d1-a9f2-728225365600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='shayan'])[1]/following::td[3]</value>
+      <webElementGuid>1740438d-6a12-4569-8320-00a1e22bd323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bravo'])[1]/preceding::td[1]</value>
+      <webElementGuid>feec29b1-0a72-401f-ab66-f54132217f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2023-07-02T00:00:00.000Z']/parent::*</value>
+      <webElementGuid>d8e44cce-439e-4d7a-8b4b-457c2b9d2925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td</value>
+      <webElementGuid>81b0e979-fb27-4b3f-b20c-c94e908664cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '2023-07-02T00:00:00.000Z' or . = '2023-07-02T00:00:00.000Z')]</value>
+      <webElementGuid>c1af91d9-0f07-4e08-8806-184af680f786</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

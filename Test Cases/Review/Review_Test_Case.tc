@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Review_Test_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85d99eae-5773-48b3-becd-945380f4cb06</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>948d000c-5367-4161-bc29-1be58398ec35</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Review_Test_Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>948d000c-5367-4161-bc29-1be58398ec35</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>headingText</value>
+      <variableId>45682f0e-81af-48a1-b5ea-a049532a739a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>948d000c-5367-4161-bc29-1be58398ec35</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>review</value>
+      <variableId>33b980c8-b387-40d9-99d7-205bd79f24a5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Submit Your Review For Alex Barber Barber'</defaultValue>
+      <description></description>
+      <id>45682f0e-81af-48a1-b5ea-a049532a739a</id>
+      <masked>false</masked>
+      <name>headingText</name>
+   </variable>
+   <variable>
+      <defaultValue>'Very good service. Highly recommended!'</defaultValue>
+      <description></description>
+      <id>33b980c8-b387-40d9-99d7-205bd79f24a5</id>
+      <masked>false</masked>
+      <name>review</name>
+   </variable>
+</TestCaseEntity>

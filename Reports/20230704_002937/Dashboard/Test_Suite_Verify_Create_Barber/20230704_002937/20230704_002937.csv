@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suite_Verify_Create_Barber,Chrome 114.0.0.0,,,2023-07-04 00:29:56,2023-07-04 00:31:40,1m - 44.171s,PASSED
+,,,,,,,
+Test Cases/Dashboard/Verify_Create_Barber/Verify_Create_Barber_Test_Case,Chrome 114.0.0.0,,,2023-07-04 00:29:57,2023-07-04 00:31:40,1m - 42.899s,PASSED
+"callTestCase(findTestCase(""Login/Test_Case_Login""), [""email"":""bravo@gmail.com"", ""password"":""password
+"", ""headingText"":""Hello Again!"", ""paraText"":""Welcome Back""], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-04 00:30:00,2023-07-04 00:31:26,1m - 26.121s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:31:26,2023-07-04 00:31:28,2.041s,PASSED
+"click(findTestObject(""Dashboard_Objects/Verify_Create_Barber_Objects/svg_bravo_text-gray-400 text-14""))",Chrome 114.0.0.0,,,2023-07-04 00:31:28,2023-07-04 00:31:29,0.637s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:31:29,2023-07-04 00:31:31,2.024s,PASSED
+"click(findTestObject(""Dashboard_Objects/Verify_Create_Barber_Objects/a_Dashboard Admin Settings""))",Chrome 114.0.0.0,,,2023-07-04 00:31:31,2023-07-04 00:31:32,0.708s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:31:32,2023-07-04 00:31:34,2.012s,PASSED
+"click(findTestObject(""Dashboard_Objects/Verify_Create_Barber_Objects/p_All Barbers""))",Chrome 114.0.0.0,,,2023-07-04 00:31:34,2023-07-04 00:31:35,0.827s,PASSED
+try,Chrome 114.0.0.0,,,2023-07-04 00:31:35,2023-07-04 00:31:39,4.010s,PASSED
+Finally,Chrome 114.0.0.0,,,2023-07-04 00:31:39,2023-07-04 00:31:40,1.089s,PASSED

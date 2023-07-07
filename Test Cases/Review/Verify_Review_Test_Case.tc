@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Review_Test_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2d153fa-88f2-42ec-8296-217a905069ee</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3a47d9ba-560f-4731-b032-b22e7a913e90</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Verify_Review_Test_Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3a47d9ba-560f-4731-b032-b22e7a913e90</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>review</value>
+      <variableId>d6ed07fe-87c4-424b-b977-cddbbc9110cd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Very good service. Highly recommended!'</defaultValue>
+      <description></description>
+      <id>d6ed07fe-87c4-424b-b977-cddbbc9110cd</id>
+      <masked>false</masked>
+      <name>review</name>
+   </variable>
+</TestCaseEntity>

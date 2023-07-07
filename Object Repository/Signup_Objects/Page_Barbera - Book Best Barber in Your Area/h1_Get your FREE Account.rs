@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Get your FREE Account</name>
+   <tag></tag>
+   <elementGuidId>78f36727-889e-4bba-96e9-9012345a69b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.text-gray-800.font-bold.text-2xl.mb-1.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/form/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>34aac1c2-84ec-4b16-adce-0628b115c3f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-800 font-bold text-2xl mb-1 text-center</value>
+      <webElementGuid>27ad5f1b-1444-433c-b59d-787219a71b79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get your FREE Account</value>
+      <webElementGuid>7e35df6a-b83b-4e26-9aed-d75106522ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;h-screen flex&quot;]/div[@class=&quot;flex w-full lg:w-1/2 justify-center items-center bg-[#f2f9ff] space-y-8&quot;]/div[@class=&quot;w-full&quot;]/form[@class=&quot;bg-white rounded-md shadow-2xl p-12 w-full&quot;]/h1[@class=&quot;text-gray-800 font-bold text-2xl mb-1 text-center&quot;]</value>
+      <webElementGuid>9dee6cec-2313-48fa-921b-42b30c23d5c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/form/h1</value>
+      <webElementGuid>1b930d54-aa67-4056-9b25-97a310fdf63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Be Confident, Be Brave, Be Yourself.'])[1]/following::h1[1]</value>
+      <webElementGuid>16c58160-5b45-4fab-935b-78968f903441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::h1[2]</value>
+      <webElementGuid>63f1d3b1-ebe3-4086-bb25-a0d6245c79db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get your FREE Account']/parent::*</value>
+      <webElementGuid>c16c6f26-7a2c-42fc-8afc-b51c5de9a716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/h1</value>
+      <webElementGuid>ab810f0b-aab9-4883-a5ba-b9400af8b03d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Get your FREE Account' or . = 'Get your FREE Account')]</value>
+      <webElementGuid>162a299d-d377-450c-916e-964ffe663c23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

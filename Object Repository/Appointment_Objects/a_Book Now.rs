@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Book Now</name>
+   <tag></tag>
+   <elementGuidId>2eef485c-1ff8-49d9-a9cf-40ddce2f4139</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Salons']/div/div/div/a/div/div/div[3]/a/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>501490e8-4f3f-4b69-a8fc-6ca6b092180a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>27ef0f63-af0a-44f3-9760-33ca3dd18007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book Now</value>
+      <webElementGuid>0e74cb56-fd16-42ab-8aab-3d6a6a5f07f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Salons&quot;)/div[@class=&quot;flex w-full justify-center items-center 2xl:px-20 bg-white&quot;]/div[@class=&quot;flex flex-col md:p-12 py-4 px-4&quot;]/div[@class=&quot;flex flex-wrap mt-6 justify-around&quot;]/a[1]/div[@class=&quot;my-4 mx-6&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;btn&quot;]/a[@class=&quot;fancy&quot;]/a[@class=&quot;text&quot;]</value>
+      <webElementGuid>3f19b4f9-a070-4e60-abca-c64a3275b9f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Salons']/div/div/div/a/div/div/div[3]/a/a</value>
+      <webElementGuid>102caad6-73fc-4b76-9287-508da279d9ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Book Now')]</value>
+      <webElementGuid>a7c3ac74-3168-45ed-bac6-3aaffb610234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect your account to make a appointment with the barber of your choice!'])[1]/following::a[3]</value>
+      <webElementGuid>bd9dbedd-5dd3-4f9e-af2b-164fe693894a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Barber', &quot;'&quot;, 's Shops')])[1]/following::a[3]</value>
+      <webElementGuid>e528a290-ec18-4be5-87a2-e2692fa0679c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Now'])[2]/preceding::a[1]</value>
+      <webElementGuid>ecc83e8c-94f0-402b-822f-ae6868dfc1cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOW ALL BARBERS'])[1]/preceding::a[4]</value>
+      <webElementGuid>4f3ef6e7-89ed-4077-9c2b-1d6dcca03c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book Now']/parent::*</value>
+      <webElementGuid>936bf9b2-5aff-45fb-9851-bbd2eebea864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/a</value>
+      <webElementGuid>5a9146cd-63a9-481a-b93c-6097daa26ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Book Now' or . = 'Book Now')]</value>
+      <webElementGuid>65eb9f40-fdb6-4d67-ab8a-53eeb679c9ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

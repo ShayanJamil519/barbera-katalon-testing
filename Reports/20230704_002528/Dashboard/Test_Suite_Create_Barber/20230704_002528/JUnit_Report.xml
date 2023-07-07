@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test_Suite_Create_Barber" time="103.168" tests="1" failures="0" errors="0">
+   <testsuite name="Test_Suite_Create_Barber" tests="1" failures="0" errors="0" time="103.168" skipped="0" timestamp="2023-07-04 00:25:41" hostname="Ams - DESKTOP-JJQTM0N" id="Test Suites/Dashboard/Test_Suite_Create_Barber">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Ams\\Katalon Studio\\Barbera-Testing\\Reports\\20230704_002528\\Dashboard\\Test_Suite_Create_Barber\\20230704_002528"/>
+         <property name="logFiles" value="C:\\Users\\Ams\\Katalon Studio\\Barbera-Testing\\Reports\\20230704_002528\\Dashboard\\Test_Suite_Create_Barber\\20230704_002528\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Ams\\Katalon Studio\\Barbera-Testing\\Reports\\20230704_002528\\Dashboard\\Test_Suite_Create_Barber\\20230704_002528\\1688412363695.png, C:\\Users\\Ams\\Katalon Studio\\Barbera-Testing\\Reports\\20230704_002528\\Dashboard\\Test_Suite_Create_Barber\\20230704_002528\\1688412443091.png"/>
+         <property name="hostName" value="Ams - DESKTOP-JJQTM0N"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.100.150"/>
+         <property name="sessionId" value="2b14f237f94c596ef53aad0db01820fa"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Dashboard/Create_Barber/Create_Barber_Test_Case" time="102.48" classname="Test Cases/Dashboard/Create_Barber/Create_Barber_Test_Case" status="PASSED">
+         <system-out><![CDATA[2023-07-04 00:25:42 - [TEST_CASE][PASSED] - Test Cases/Dashboard/Create_Barber/Create_Barber_Test_Case: Test Cases/Dashboard/Create_Barber/Create_Barber_Test_Case
+
+2023-07-04 00:25:44 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login/Test_Case_Login"), ["email":"bravo@gmail.com", "password":"password
+", "headingText":"Hello Again!", "paraText":"Welcome Back"], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login/Test_Case_Login' successfully
+
+2023-07-04 00:25:45 - [TEST_CASE][PASSED] - Test Cases/Login/Test_Case_Login: Test Cases/Login/Test_Case_Login
+
+2023-07-04 00:25:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-04 00:25:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-04 00:25:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-04 00:25:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-04 00:25:51 - [TEST_STEP][PASSED] - navigateToUrl("https://kind-gray-bluefish-tie.cyclic.app/login"): Navigate to 'https://kind-gray-bluefish-tie.cyclic.app/login' successfully
+
+2023-07-04 00:25:54 - [MESSAGE][PASSED] - Navigate to 'https://kind-gray-bluefish-tie.cyclic.app/login' successfully
+
+2023-07-04 00:25:54 - [TEST_STEP][PASSED] - refresh(): Refresh successfully
+
+2023-07-04 00:25:55 - [MESSAGE][PASSED] - Refresh successfully
+
+2023-07-04 00:25:55 - [TEST_STEP][PASSED] - try: Object: 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/button_Login' is clicked on
+
+2023-07-04 00:25:55 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Login_Objects/Page_Barbera - Book Best Barber in Your Area/h1_Hello Again"), headingText): Actual text and expected text of test object 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/h1_Hello Again' are matched.
+
+2023-07-04 00:25:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/h1_Hello Again' are matched.
+
+2023-07-04 00:25:56 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Login_Objects/Page_Barbera - Book Best Barber in Your Area/p_Welcome Back"), paraText): Actual text and expected text of test object 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/p_Welcome Back' are matched.
+
+2023-07-04 00:25:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/p_Welcome Back' are matched.
+
+2023-07-04 00:25:56 - [TEST_STEP][PASSED] - setText(findTestObject("Login_Objects/Page_Barbera - Book Best Barber in Your Area/input_Hello Again_email"), email): Text 'bravo@gmail.com' is set on object 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/input_Hello Again_email'
+
+2023-07-04 00:25:57 - [MESSAGE][PASSED] - Text 'bravo@gmail.com' is set on object 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/input_Hello Again_email'
+
+2023-07-04 00:25:57 - [TEST_STEP][PASSED] - setText(findTestObject("Login_Objects/Page_Barbera - Book Best Barber in Your Area/input_Hello Again_password"), password): Text 'password
+' is set on object 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/input_Hello Again_password'
+
+2023-07-04 00:25:58 - [MESSAGE][PASSED] - Text 'password
+' is set on object 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/input_Hello Again_password'
+
+2023-07-04 00:25:58 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2023-07-04 00:26:04 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Ams\\Katalon Studio\\Barbera-Testing\\Reports\\20230704_002528\\Dashboard\\Test_Suite_Create_Barber\\20230704_002528\\1688412363695.png]]
+
+2023-07-04 00:26:04 - [TEST_STEP][PASSED] - click(findTestObject("Login_Objects/Page_Barbera - Book Best Barber in Your Area/button_Login")): Object: 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/button_Login' is clicked on
+
+2023-07-04 00:27:05 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@type='submit']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-07-04 00:27:05 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/button_Login'. Try using Self-healing.
+
+2023-07-04 00:27:06 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/button_Login' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::button[1]'.
+
+2023-07-04 00:27:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Login_Objects/Page_Barbera - Book Best Barber in Your Area/button_Login' is clicked on
+
+2023-07-04 00:27:06 - [MESSAGE][INFO] - 
+
+2023-07-04 00:27:06 - [MESSAGE][INFO] - ===================== Self-healing Report ====================
+
+2023-07-04 00:27:06 - [MESSAGE][INFO] - One of the failed test object locators has been recovered by Self-healing. Please refer to the Self-healing Insights tab for more details.
+
+2023-07-04 00:27:06 - [MESSAGE][INFO] - To learn more about Self-healing, please read https://docs.katalon.com/katalon-studio/docs/self-healing.html
+
+2023-07-04 00:27:06 - [MESSAGE][INFO] - ==============================================================
+
+2023-07-04 00:27:06 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login/Test_Case_Login' successfully
+
+2023-07-04 00:27:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-07-04 00:27:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-07-04 00:27:08 - [TEST_STEP][PASSED] - click(findTestObject("Dashboard_Objects/Create_Barber_Objects/svg_bravo_text-gray-400 text-14")): Object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/svg_bravo_text-gray-400 text-14' is clicked on
+
+2023-07-04 00:27:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/svg_bravo_text-gray-400 text-14' is clicked on
+
+2023-07-04 00:27:09 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-07-04 00:27:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-07-04 00:27:11 - [TEST_STEP][PASSED] - click(findTestObject("Dashboard_Objects/Create_Barber_Objects/a_Dashboard Admin Settings")): Object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/a_Dashboard Admin Settings' is clicked on
+
+2023-07-04 00:27:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/a_Dashboard Admin Settings' is clicked on
+
+2023-07-04 00:27:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-07-04 00:27:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-07-04 00:27:14 - [TEST_STEP][PASSED] - try: Object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/button_Submit' is clicked on
+
+2023-07-04 00:27:14 - [TEST_STEP][PASSED] - click(findTestObject("Dashboard_Objects/Create_Barber_Objects/p_Create Barber")): Object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/p_Create Barber' is clicked on
+
+2023-07-04 00:27:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/p_Create Barber' is clicked on
+
+2023-07-04 00:27:15 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Dashboard_Objects/Create_Barber_Objects/div_Create Barber"), headingText): Actual text and expected text of test object 'Object Repository/Dashboard_Objects/Create_Barber_Objects/div_Create Barber' are matched.
+
+2023-07-04 00:27:16 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Dashboard_Objects/Create_Barber_Objects/div_Create Barber' are matched.
+
+2023-07-04 00:27:16 - [TEST_STEP][PASSED] - setText(findTestObject("Dashboard_Objects/Create_Barber_Objects/input_Create Barber_barbername"), barberName): Text 'EFGH Barber' is set on object 'Object Repository/Dashboard_Objects/Create_Barber_Objects/input_Create Barber_barbername'
+
+2023-07-04 00:27:17 - [MESSAGE][PASSED] - Text 'EFGH Barber' is set on object 'Object Repository/Dashboard_Objects/Create_Barber_Objects/input_Create Barber_barbername'
+
+2023-07-04 00:27:17 - [TEST_STEP][PASSED] - setText(findTestObject("Dashboard_Objects/Create_Barber_Objects/input_Barber Name_worksat"), barberWorksAt): Text 'ABCD Salon ' is set on object 'Object Repository/Dashboard_Objects/Create_Barber_Objects/input_Barber Name_worksat'
+
+2023-07-04 00:27:19 - [MESSAGE][PASSED] - Text 'ABCD Salon ' is set on object 'Object Repository/Dashboard_Objects/Create_Barber_Objects/input_Barber Name_worksat'
+
+2023-07-04 00:27:19 - [TEST_STEP][PASSED] - setText(findTestObject("Dashboard_Objects/Create_Barber_Objects/input_Works At_timings"), barberTimings): Text '1pm-6pm' is set on object 'Object Repository/Dashboard_Objects/Create_Barber_Objects/input_Works At_timings'
+
+2023-07-04 00:27:20 - [MESSAGE][PASSED] - Text '1pm-6pm' is set on object 'Object Repository/Dashboard_Objects/Create_Barber_Objects/input_Works At_timings'
+
+2023-07-04 00:27:20 - [TEST_STEP][PASSED] - setText(findTestObject("Dashboard_Objects/Create_Barber_Objects/input_Timings_experience"), barberExperience): Text '5' is set on object 'Object Repository/Dashboard_Objects/Create_Barber_Objects/input_Timings_experience'
+
+2023-07-04 00:27:21 - [MESSAGE][PASSED] - Text '5' is set on object 'Object Repository/Dashboard_Objects/Create_Barber_Objects/input_Timings_experience'
+
+2023-07-04 00:27:21 - [TEST_STEP][PASSED] - uploadFile(findTestObject("Dashboard_Objects/Create_Barber_Objects/input_Experience_avatar"), barberPath): File 'C:\\Users\\Ams\\Katalon Studio\\Barbera-Testing\\Test Data\\barber.jpg' sent to object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/input_Experience_avatar'
+
+2023-07-04 00:27:22 - [MESSAGE][PASSED] - File 'C:\\Users\\Ams\\Katalon Studio\\Barbera-Testing\\Test Data\\barber.jpg' sent to object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/input_Experience_avatar'
+
+2023-07-04 00:27:22 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2023-07-04 00:27:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Ams\\Katalon Studio\\Barbera-Testing\\Reports\\20230704_002528\\Dashboard\\Test_Suite_Create_Barber\\20230704_002528\\1688412443091.png]]
+
+2023-07-04 00:27:23 - [TEST_STEP][PASSED] - click(findTestObject("Dashboard_Objects/Create_Barber_Objects/button_Submit")): Object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/button_Submit' is clicked on
+
+2023-07-04 00:27:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Dashboard_Objects/Create_Barber_Objects/button_Submit' is clicked on
+
+2023-07-04 00:27:24 - [TEST_STEP][PASSED] - Finally: Browser is closed
+
+2023-07-04 00:27:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-04 00:27:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-04 00:25:41 - [TEST_SUITE][PASSED] - Test_Suite_Create_Barber: Test Cases/Dashboard/Create_Barber/Create_Barber_Test_Case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Create_Barber_Test_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d13124d3-854f-400c-a279-502e2cbb838a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f6a627fa-9ff3-41fe-8d46-a78c79305ea0</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Verify_Create_Barber_Test_Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f6a627fa-9ff3-41fe-8d46-a78c79305ea0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>barberName</value>
+      <variableId>b8463c85-9608-4f2d-b596-85c5a492f852</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f6a627fa-9ff3-41fe-8d46-a78c79305ea0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>barberWorksAt</value>
+      <variableId>9b9718c2-1107-4b65-8d6f-c39a5de28596</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f6a627fa-9ff3-41fe-8d46-a78c79305ea0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>barberTimings</value>
+      <variableId>3cc98d10-b6f0-40e3-986e-46b1b6702c45</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f6a627fa-9ff3-41fe-8d46-a78c79305ea0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>headingText</value>
+      <variableId>22fccf9f-fea1-486f-92cc-485acf912a8c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'EFGH Barber'</defaultValue>
+      <description></description>
+      <id>b8463c85-9608-4f2d-b596-85c5a492f852</id>
+      <masked>false</masked>
+      <name>barberName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ABCD Salon'</defaultValue>
+      <description></description>
+      <id>9b9718c2-1107-4b65-8d6f-c39a5de28596</id>
+      <masked>false</masked>
+      <name>barberWorksAt</name>
+   </variable>
+   <variable>
+      <defaultValue>'1pm-6pm'</defaultValue>
+      <description></description>
+      <id>3cc98d10-b6f0-40e3-986e-46b1b6702c45</id>
+      <masked>false</masked>
+      <name>barberTimings</name>
+   </variable>
+   <variable>
+      <defaultValue>'All Barbers'</defaultValue>
+      <description></description>
+      <id>22fccf9f-fea1-486f-92cc-485acf912a8c</id>
+      <masked>false</masked>
+      <name>headingText</name>
+   </variable>
+</TestCaseEntity>

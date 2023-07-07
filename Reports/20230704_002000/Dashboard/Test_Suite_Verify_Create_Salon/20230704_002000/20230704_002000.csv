@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suite_Verify_Create_Salon,Chrome 114.0.0.0,,,2023-07-04 00:20:11,2023-07-04 00:21:49,1m - 37.611s,PASSED
+,,,,,,,
+Test Cases/Dashboard/Verify_Create_Salon/Verify_Create_Salon_Test_Case,Chrome 114.0.0.0,,,2023-07-04 00:20:12,2023-07-04 00:21:49,1m - 36.866s,PASSED
+"callTestCase(findTestCase(""Login/Test_Case_Login""), [""email"":""bravo@gmail.com"", ""password"":""password
+"", ""headingText"":""Hello Again!"", ""paraText"":""Welcome Back""], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-04 00:20:14,2023-07-04 00:21:36,1m - 21.882s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:21:36,2023-07-04 00:21:38,2.046s,PASSED
+"click(findTestObject(""Dashboard_Objects/Verify_Create_Salon/svg_bravo_text-gray-400 text-14""))",Chrome 114.0.0.0,,,2023-07-04 00:21:38,2023-07-04 00:21:38,0.597s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:21:38,2023-07-04 00:21:40,2.007s,PASSED
+"click(findTestObject(""Dashboard_Objects/Verify_Create_Salon/a_Dashboard Admin Settings""))",Chrome 114.0.0.0,,,2023-07-04 00:21:40,2023-07-04 00:21:41,0.968s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:21:41,2023-07-04 00:21:43,2.018s,PASSED
+"click(findTestObject(""Dashboard_Objects/Verify_Create_Salon/p_All Salons""))",Chrome 114.0.0.0,,,2023-07-04 00:21:43,2023-07-04 00:21:44,1.017s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:21:44,2023-07-04 00:21:46,2.010s,PASSED
+try,Chrome 114.0.0.0,,,2023-07-04 00:21:46,2023-07-04 00:21:48,1.498s,FAILED
+catch (Exception e),Chrome 114.0.0.0,,,2023-07-04 00:21:48,2023-07-04 00:21:48,0.001s,PASSED
+Finally,Chrome 114.0.0.0,,,2023-07-04 00:21:48,2023-07-04 00:21:49,1.033s,PASSED

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Case_Verify_Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdf9a733-08d3-4bda-b296-ba033416ef15</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7c1bcdcc-d83b-4c0a-b128-498f225fcf7b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Verify_Appointment_Test_Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7c1bcdcc-d83b-4c0a-b128-498f225fcf7b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>headingText</value>
+      <variableId>ad6aa4d2-0d95-4214-86c7-d42789c4b78b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7c1bcdcc-d83b-4c0a-b128-498f225fcf7b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>appointmentDate</value>
+      <variableId>50d9cce5-ead5-4281-906a-c4d5e1cdb7bc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>7c1bcdcc-d83b-4c0a-b128-498f225fcf7b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>customerName</value>
+      <variableId>ecb92a6a-d0d6-4099-8c95-e34127f40e6b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Today\'s Appointments'</defaultValue>
+      <description></description>
+      <id>ad6aa4d2-0d95-4214-86c7-d42789c4b78b</id>
+      <masked>false</masked>
+      <name>headingText</name>
+   </variable>
+   <variable>
+      <defaultValue>'2023-07-02T00:00:00.000Z'</defaultValue>
+      <description></description>
+      <id>50d9cce5-ead5-4281-906a-c4d5e1cdb7bc</id>
+      <masked>false</masked>
+      <name>appointmentDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'bravo'</defaultValue>
+      <description></description>
+      <id>ecb92a6a-d0d6-4099-8c95-e34127f40e6b</id>
+      <masked>false</masked>
+      <name>customerName</name>
+   </variable>
+</TestCaseEntity>

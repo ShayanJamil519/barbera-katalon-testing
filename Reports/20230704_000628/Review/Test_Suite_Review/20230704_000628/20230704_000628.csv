@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suite_Review,Chrome 114.0.0.0,,,2023-07-04 00:06:40,2023-07-04 00:08:21,1m - 41.242s,PASSED
+,,,,,,,
+Test Cases/Review/Review_Test_Case,Chrome 114.0.0.0,,,2023-07-04 00:06:41,2023-07-04 00:08:21,1m - 40.454s,PASSED
+"callTestCase(findTestCase(""Login/Test_Case_Login""), [""email"":""bravo@gmail.com"", ""password"":""password
+"", ""headingText"":""Hello Again!"", ""paraText"":""Welcome Back""], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-04 00:06:42,2023-07-04 00:08:02,1m - 19.264s,PASSED
+"navigateToUrl(""https://kind-gray-bluefish-tie.cyclic.app/specificBarber/62d295d35a61c523c04a085e/Alex%20Barber/Alpha%20Barbers"")",Chrome 114.0.0.0,,,2023-07-04 00:08:02,2023-07-04 00:08:03,0.853s,PASSED
+try,Chrome 114.0.0.0,,,2023-07-04 00:08:03,2023-07-04 00:08:20,17.864s,PASSED
+Finally,Chrome 114.0.0.0,,,2023-07-04 00:08:20,2023-07-04 00:08:21,1.004s,PASSED

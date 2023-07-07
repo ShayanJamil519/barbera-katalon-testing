@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suite_Login,Chrome 114.0.0.0,,,2023-07-03 19:05:18,2023-07-03 19:05:49,31.008s,PASSED
+,,,,,,,
+Test Cases/Login/Test_Case_Login,Chrome 114.0.0.0,,,2023-07-03 19:05:19,2023-07-03 19:05:49,30.192s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-03 19:05:21,2023-07-03 19:05:28,6.567s,PASSED
+"navigateToUrl(""https://kind-gray-bluefish-tie.cyclic.app/login"")",Chrome 114.0.0.0,,,2023-07-03 19:05:28,2023-07-03 19:05:29,1.429s,PASSED
+refresh(),Chrome 114.0.0.0,,,2023-07-03 19:05:29,2023-07-03 19:05:31,1.386s,PASSED
+try,Chrome 114.0.0.0,,,2023-07-03 19:05:31,2023-07-03 19:05:49,18.726s,FAILED
+catch (Exception e),Chrome 114.0.0.0,,,2023-07-03 19:05:49,2023-07-03 19:05:49,0.000s,PASSED

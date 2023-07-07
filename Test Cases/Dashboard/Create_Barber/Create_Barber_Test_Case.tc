@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Barber_Test_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>994c5cc7-308d-4f59-99da-767f152187d2</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f39ca205-9d3b-4a59-84be-99fbde37054f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Create_Barber_Test_Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f39ca205-9d3b-4a59-84be-99fbde37054f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>barberName</value>
+      <variableId>bd5ea6d4-bae7-4d10-966a-c52d6cc6646a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f39ca205-9d3b-4a59-84be-99fbde37054f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>barberWorksAt</value>
+      <variableId>ba2ddd58-4034-4eda-9584-97ef7f52a54d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f39ca205-9d3b-4a59-84be-99fbde37054f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>barberTimings</value>
+      <variableId>ee0ee195-7393-4061-9501-929821d5a743</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f39ca205-9d3b-4a59-84be-99fbde37054f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>barberExperience</value>
+      <variableId>d7ee275d-48bb-48ef-84e2-46e7e34be82f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f39ca205-9d3b-4a59-84be-99fbde37054f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>barberPath</value>
+      <variableId>a04521d1-27ca-4044-8673-bd014048d9b5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f39ca205-9d3b-4a59-84be-99fbde37054f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>headingText</value>
+      <variableId>489fb587-6179-4902-8530-73b78a7ef11e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'EFGH Barber'</defaultValue>
+      <description></description>
+      <id>bd5ea6d4-bae7-4d10-966a-c52d6cc6646a</id>
+      <masked>false</masked>
+      <name>barberName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ABCD Salon '</defaultValue>
+      <description></description>
+      <id>ba2ddd58-4034-4eda-9584-97ef7f52a54d</id>
+      <masked>false</masked>
+      <name>barberWorksAt</name>
+   </variable>
+   <variable>
+      <defaultValue>'1pm-6pm'</defaultValue>
+      <description></description>
+      <id>ee0ee195-7393-4061-9501-929821d5a743</id>
+      <masked>false</masked>
+      <name>barberTimings</name>
+   </variable>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>d7ee275d-48bb-48ef-84e2-46e7e34be82f</id>
+      <masked>false</masked>
+      <name>barberExperience</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Ams\\\\Katalon Studio\\\\Barbera-Testing\\\\Test Data\\\\barber.jpg'</defaultValue>
+      <description></description>
+      <id>a04521d1-27ca-4044-8673-bd014048d9b5</id>
+      <masked>false</masked>
+      <name>barberPath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Create Barber'</defaultValue>
+      <description></description>
+      <id>489fb587-6179-4902-8530-73b78a7ef11e</id>
+      <masked>false</masked>
+      <name>headingText</name>
+   </variable>
+</TestCaseEntity>

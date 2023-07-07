@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Salon_Test_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92782628-a65e-48ee-b244-5c1862093b77</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a29a5ce0-9ba6-4278-9ac7-4c83468f665a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Create_Salon_Test_Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a29a5ce0-9ba6-4278-9ac7-4c83468f665a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>salonName</value>
+      <variableId>a2ac2c7e-6465-4fa4-b512-208ac0e64495</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a29a5ce0-9ba6-4278-9ac7-4c83468f665a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>salonTimings</value>
+      <variableId>cdbc2ede-0b7a-4c30-9ac0-427948395ec0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a29a5ce0-9ba6-4278-9ac7-4c83468f665a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>salonLocation</value>
+      <variableId>db5b0438-d691-4ae6-8f92-60734c4f33b0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a29a5ce0-9ba6-4278-9ac7-4c83468f665a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>salonPath</value>
+      <variableId>e3b008ab-eb4f-4b0f-b43f-80d0eb33dde1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a29a5ce0-9ba6-4278-9ac7-4c83468f665a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>headingText</value>
+      <variableId>858629ad-04ee-42bd-9fb2-81b2c63f8e62</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ABCD Salon'</defaultValue>
+      <description></description>
+      <id>a2ac2c7e-6465-4fa4-b512-208ac0e64495</id>
+      <masked>false</masked>
+      <name>salonName</name>
+   </variable>
+   <variable>
+      <defaultValue>'10am-12pm'</defaultValue>
+      <description></description>
+      <id>cdbc2ede-0b7a-4c30-9ac0-427948395ec0</id>
+      <masked>false</masked>
+      <name>salonTimings</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>db5b0438-d691-4ae6-8f92-60734c4f33b0</id>
+      <masked>false</masked>
+      <name>salonLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Ams\\\\Katalon Studio\\\\Barbera-Testing\\\\Test Data\\\\salon.jpg'</defaultValue>
+      <description></description>
+      <id>e3b008ab-eb4f-4b0f-b43f-80d0eb33dde1</id>
+      <masked>false</masked>
+      <name>salonPath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Create Salon'</defaultValue>
+      <description></description>
+      <id>858629ad-04ee-42bd-9fb2-81b2c63f8e62</id>
+      <masked>false</masked>
+      <name>headingText</name>
+   </variable>
+</TestCaseEntity>

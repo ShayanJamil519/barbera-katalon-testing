@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_5 Stars</name>
+   <tag></tag>
+   <elementGuidId>f97b462b-4891-4079-b830-e6fd7d67195d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[4]/div/div/div/div/div/span/label[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3d2dfbfe-7875-4b26-b57a-78757eec9cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiRating-label</value>
+      <webElementGuid>a962eb32-1c7e-49d8-a4c5-6ce4f0f27370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>mui-91557-5</value>
+      <webElementGuid>44e450c5-7c03-4a2c-afe9-42e97679f688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5 Stars</value>
+      <webElementGuid>83f88eae-3aaf-4c95-8d9a-076109f2aa55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[4]/div[1]/div[@class=&quot;flex flex-col sm:flex-row bg-black justify-around&quot;]/div[@class=&quot;min-w-md  bg-white shadow-lg rounded-lg md:max-w-xl my-14 w-full sm:w-1/2&quot;]/div[@class=&quot;md:flex font-cursive&quot;]/div[@class=&quot;w-full px-6 py-6 flex flex-col&quot;]/span[@class=&quot;MuiRating-root MuiRating-sizeLarge&quot;]/label[@class=&quot;MuiRating-label&quot;]</value>
+      <webElementGuid>9d5f7aa6-5c90-41c7-93f6-276dac3c01eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[4]/div/div/div/div/div/span/label[5]</value>
+      <webElementGuid>3c3c056a-c8ff-4ec2-88f3-51363c78fbd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hair Coloring'])[3]/following::label[5]</value>
+      <webElementGuid>e7362e4e-728b-4af8-b1e4-adaf84ecae01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::label[1]</value>
+      <webElementGuid>9ef57461-8027-4858-aa0b-27b9a57dd642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Today', &quot;'&quot;, 's Appointments')])[1]/preceding::label[1]</value>
+      <webElementGuid>333d55b0-20bc-4bc6-89f6-d3b1326dcc81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[5]</value>
+      <webElementGuid>391c5c8b-64f0-411a-a2c3-e00d1a948c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '5 Stars' or . = '5 Stars')]</value>
+      <webElementGuid>ae1f0f40-1461-491d-b568-324491a2e859</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

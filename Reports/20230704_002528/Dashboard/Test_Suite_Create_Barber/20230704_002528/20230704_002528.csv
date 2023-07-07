@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suite_Create_Barber,Chrome 114.0.0.0,,,2023-07-04 00:25:41,2023-07-04 00:27:25,1m - 43.168s,PASSED
+,,,,,,,
+Test Cases/Dashboard/Create_Barber/Create_Barber_Test_Case,Chrome 114.0.0.0,,,2023-07-04 00:25:42,2023-07-04 00:27:25,1m - 42.480s,PASSED
+"callTestCase(findTestCase(""Login/Test_Case_Login""), [""email"":""bravo@gmail.com"", ""password"":""password
+"", ""headingText"":""Hello Again!"", ""paraText"":""Welcome Back""], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-04 00:25:44,2023-07-04 00:27:06,1m - 21.692s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:27:06,2023-07-04 00:27:08,2.039s,PASSED
+"click(findTestObject(""Dashboard_Objects/Create_Barber_Objects/svg_bravo_text-gray-400 text-14""))",Chrome 114.0.0.0,,,2023-07-04 00:27:08,2023-07-04 00:27:09,0.681s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:27:09,2023-07-04 00:27:11,2.023s,PASSED
+"click(findTestObject(""Dashboard_Objects/Create_Barber_Objects/a_Dashboard Admin Settings""))",Chrome 114.0.0.0,,,2023-07-04 00:27:11,2023-07-04 00:27:12,1.502s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:27:12,2023-07-04 00:27:14,2.012s,PASSED
+try,Chrome 114.0.0.0,,,2023-07-04 00:27:14,2023-07-04 00:27:24,9.291s,PASSED
+Finally,Chrome 114.0.0.0,,,2023-07-04 00:27:24,2023-07-04 00:27:25,0.946s,PASSED

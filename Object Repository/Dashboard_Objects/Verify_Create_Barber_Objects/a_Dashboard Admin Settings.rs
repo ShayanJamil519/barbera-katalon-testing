@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dashboard Admin Settings</name>
+   <tag></tag>
+   <elementGuidId>b22641cf-73ce-4cb3-b2d8-888ab544319a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/nav/div[4]/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>77d776a8-c239-48d4-848e-d8a5ea8fa271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex gap-5 mt-6 border-b-1 border-color p-2 hover:bg-[#37c7da] rounded hover:text-white cursor-pointer</value>
+      <webElementGuid>f726ef12-b4ac-4a22-935e-f4387ae2f93d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/salonowner/dashboard</value>
+      <webElementGuid>c7da27b0-59b9-4eeb-817e-e2bd10436851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard Admin Settings</value>
+      <webElementGuid>e61734f5-c6f5-43f6-8d5b-a400cb20b738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;gradient-bg-welcome&quot;]/nav[@class=&quot;w-full flex md:justify-center justify-between items-center px-4 bg-black&quot;]/div[@class=&quot;nav-item absolute right-1 top-16 bg-white dark:bg-[#f1eee9] p-4 rounded-lg w-80 z-50 mt-4 border-solid border-2 border-[#c9c9c9]&quot;]/div[3]/a[@class=&quot;flex gap-5 mt-6 border-b-1 border-color p-2 hover:bg-[#37c7da] rounded hover:text-white cursor-pointer&quot;]</value>
+      <webElementGuid>a3cc4959-508d-49ed-aa00-042a82942118</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/nav/div[4]/div[3]/a</value>
+      <webElementGuid>6075698a-6db7-4fb2-b615-788d82026986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bravo'])[1]/following::a[1]</value>
+      <webElementGuid>f6f3b17a-6628-4185-abfd-0e65c1e48f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi,'])[1]/following::a[1]</value>
+      <webElementGuid>8db51b83-65f3-4192-9b0b-ec12b80aaaf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[1]</value>
+      <webElementGuid>45d25612-d2c4-468e-9c1d-a53deb34be2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/salonowner/dashboard')]</value>
+      <webElementGuid>1b8336bf-53c6-4e50-910b-5c35478dadd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>3074a6ed-d58e-467b-9e17-81eea77cf1f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/salonowner/dashboard' and (text() = 'Dashboard Admin Settings' or . = 'Dashboard Admin Settings')]</value>
+      <webElementGuid>bd22cf19-1ba9-40b5-89ed-c050acced9a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

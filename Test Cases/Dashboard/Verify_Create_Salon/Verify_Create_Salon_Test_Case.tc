@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Create_Salon_Test_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f57f0fd-c7e3-495e-a111-ffc045a5b663</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b72f8e95-2e0a-45c6-811d-f83217604154</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Verify_Create_Salon_Test_Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b72f8e95-2e0a-45c6-811d-f83217604154</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>salonName</value>
+      <variableId>712d6358-0886-4091-afbd-7578c7a9b314</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b72f8e95-2e0a-45c6-811d-f83217604154</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>salonTimings</value>
+      <variableId>7c459937-765b-415f-b438-916c8a19ee8f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b72f8e95-2e0a-45c6-811d-f83217604154</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>salonLocation</value>
+      <variableId>75fac0d3-7027-44d6-9285-ac2c85a63ee9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b72f8e95-2e0a-45c6-811d-f83217604154</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>headingText</value>
+      <variableId>f6274378-4855-4844-bbb4-2ae5917ec4ab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ABCD Salon\r\n'</defaultValue>
+      <description></description>
+      <id>712d6358-0886-4091-afbd-7578c7a9b314</id>
+      <masked>false</masked>
+      <name>salonName</name>
+   </variable>
+   <variable>
+      <defaultValue>'10am-12pm'</defaultValue>
+      <description></description>
+      <id>7c459937-765b-415f-b438-916c8a19ee8f</id>
+      <masked>false</masked>
+      <name>salonTimings</name>
+   </variable>
+   <variable>
+      <defaultValue>'Gulshan'</defaultValue>
+      <description></description>
+      <id>75fac0d3-7027-44d6-9285-ac2c85a63ee9</id>
+      <masked>false</masked>
+      <name>salonLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>'All Salons'</defaultValue>
+      <description></description>
+      <id>f6274378-4855-4844-bbb4-2ae5917ec4ab</id>
+      <masked>false</masked>
+      <name>headingText</name>
+   </variable>
+</TestCaseEntity>

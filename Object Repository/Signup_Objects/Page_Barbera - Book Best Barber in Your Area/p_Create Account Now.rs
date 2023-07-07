@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Create Account Now</name>
+   <tag></tag>
+   <elementGuidId>7071ecc9-818e-481f-b462-36769e85be86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-sm.font-normal.text-gray-600.mb-8.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div/form/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d37ad979-e6fb-47d3-bb87-9efbd9b1bdd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm font-normal text-gray-600 mb-8 text-center</value>
+      <webElementGuid>4286e905-2ce8-4195-bce7-fa15b6cd7ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Account Now</value>
+      <webElementGuid>5ec2518a-f53b-4eff-bfff-0b3d4c9cde9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;h-screen flex&quot;]/div[@class=&quot;flex w-full lg:w-1/2 justify-center items-center bg-[#f2f9ff] space-y-8&quot;]/div[@class=&quot;w-full&quot;]/form[@class=&quot;bg-white rounded-md shadow-2xl p-12 w-full&quot;]/p[@class=&quot;text-sm font-normal text-gray-600 mb-8 text-center&quot;]</value>
+      <webElementGuid>a5944ba2-b9b7-4ecb-a68f-3b6cc00cb205</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/form/p</value>
+      <webElementGuid>4c9a40ed-e710-4b62-97f2-c31bad82a1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get your FREE Account'])[1]/following::p[1]</value>
+      <webElementGuid>a0bf7c57-893c-4423-a230-ab6f9d220c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Be Confident, Be Brave, Be Yourself.'])[1]/following::p[2]</value>
+      <webElementGuid>c1c1475a-2b05-47ab-9787-be8d2226bde2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Account Now']/parent::*</value>
+      <webElementGuid>7b992b41-6340-418f-bd18-1dc69dc68025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/p</value>
+      <webElementGuid>c213851c-c68e-412c-bad8-721ff7b7fe14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Create Account Now' or . = 'Create Account Now')]</value>
+      <webElementGuid>6062e1d8-049e-45b6-8f26-aea77ec83a58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

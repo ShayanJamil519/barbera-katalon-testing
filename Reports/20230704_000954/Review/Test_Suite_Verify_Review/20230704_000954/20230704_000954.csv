@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suite_Verify_Review,Chrome 114.0.0.0,,,2023-07-04 00:10:06,2023-07-04 00:11:40,1m - 34.335s,PASSED
+,,,,,,,
+Test Cases/Review/Verify_Review_Test_Case,Chrome 114.0.0.0,,,2023-07-04 00:10:07,2023-07-04 00:11:40,1m - 33.646s,PASSED
+"callTestCase(findTestCase(""Login/Test_Case_Login""), [""email"":""bravo@gmail.com"", ""password"":""password
+"", ""headingText"":""Hello Again!"", ""paraText"":""Welcome Back""], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-04 00:10:08,2023-07-04 00:11:30,1m - 22.010s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:11:30,2023-07-04 00:11:32,2.049s,PASSED
+"click(findTestObject(""Verify_Review_Objects/a_Book Now""))",Chrome 114.0.0.0,,,2023-07-04 00:11:32,2023-07-04 00:11:33,0.851s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:11:33,2023-07-04 00:11:35,2.020s,PASSED
+"click(findTestObject(""Verify_Review_Objects/p_Alex Barber""))",Chrome 114.0.0.0,,,2023-07-04 00:11:35,2023-07-04 00:11:36,0.878s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-04 00:11:36,2023-07-04 00:11:38,2.012s,PASSED
+try,Chrome 114.0.0.0,,,2023-07-04 00:11:38,2023-07-04 00:11:39,1.472s,PASSED
+Finally,Chrome 114.0.0.0,,,2023-07-04 00:11:39,2023-07-04 00:11:40,0.959s,PASSED

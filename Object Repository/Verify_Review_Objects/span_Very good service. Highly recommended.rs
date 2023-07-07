@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Very good service. Highly recommended</name>
+   <tag></tag>
+   <elementGuidId>c7d0e7b6-f514-4a48-a33d-c36fea3f3925</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[4]/div/div[2]/div/div/div[13]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e2635353-c9be-4a6d-b051-b5311cb17b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>reviewCardComment</value>
+      <webElementGuid>33432ba9-2a1f-41c3-babf-a12d28e199c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Very good service. Highly recommended!</value>
+      <webElementGuid>a00ec581-fd50-4394-b07d-8e7fbc4556d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[4]/div[1]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;flex flex-row space-even justify-around flex-wrap&quot;]/div[@class=&quot;reviews&quot;]/div[@class=&quot;reviewCard rounded-lg&quot;]/span[@class=&quot;reviewCardComment&quot;]</value>
+      <webElementGuid>e93d9db4-609b-4f2c-b922-b55ed9e87a88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[4]/div/div[2]/div/div/div[13]/span[2]</value>
+      <webElementGuid>c07699a6-b5a4-4827-a601-1ba66c06c1d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jjj'])[1]/following::span[27]</value>
+      <webElementGuid>7bd3e4ce-7ba2-416e-882b-8d093e756d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Love Every second , Will Come Again'])[1]/following::span[54]</value>
+      <webElementGuid>e60052d2-03d0-42b6-83ab-cedab6c59176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get connected with us on social networks:'])[1]/preceding::span[1]</value>
+      <webElementGuid>56eac9a2-2193-4086-8f7d-eb5f058da42b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Barbera'])[1]/preceding::span[2]</value>
+      <webElementGuid>1abe603a-76bd-4ad2-913f-90e415078633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Very good service. Highly recommended!']/parent::*</value>
+      <webElementGuid>ce87d72e-3cf3-4268-879e-be89cdccf884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/span[2]</value>
+      <webElementGuid>5ab6238a-92d7-40e4-8fc2-15823f61aad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Very good service. Highly recommended!' or . = 'Very good service. Highly recommended!')]</value>
+      <webElementGuid>e28baec1-080e-4083-9371-63df9da05b35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

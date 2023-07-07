@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_bravo</name>
+   <tag></tag>
+   <elementGuidId>c8164f9f-cda4-47ba-96fb-9df8035652df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[4]/div/div[2]/div/div/div[13]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cc3faa32-7a76-44d6-82af-84c4e6c6725d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>bravo</value>
+      <webElementGuid>8545c2d6-6970-43c5-892f-aba6722962ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[4]/div[1]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;flex flex-row space-even justify-around flex-wrap&quot;]/div[@class=&quot;reviews&quot;]/div[@class=&quot;reviewCard rounded-lg&quot;]/p[1]</value>
+      <webElementGuid>4d315cdd-5c89-4209-8009-133aeedc4f34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[4]/div/div[2]/div/div/div[13]/p</value>
+      <webElementGuid>fee2d561-6f35-4db2-b4d5-6093caa9cf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jjj'])[1]/following::p[1]</value>
+      <webElementGuid>9ab2e22e-117b-4104-a50a-4f49bb9af00a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Love Every second , Will Come Again'])[1]/following::p[2]</value>
+      <webElementGuid>5d0e53d4-6c9f-483e-b11c-f53a3b927bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Very good service. Highly recommended!'])[1]/preceding::p[1]</value>
+      <webElementGuid>5911d151-b5ac-4a40-b3e0-a742d005bd6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get connected with us on social networks:'])[1]/preceding::p[1]</value>
+      <webElementGuid>40c45b13-a20b-41c7-bb88-21795ef4935e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/p</value>
+      <webElementGuid>bddcd587-9209-4dde-9114-4484cf4c2399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'bravo' or . = 'bravo')]</value>
+      <webElementGuid>7a63ffb2-7f70-49d0-8234-70cfd71e92fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

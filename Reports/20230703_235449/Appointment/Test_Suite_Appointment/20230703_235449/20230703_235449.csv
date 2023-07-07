@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suite_Appointment,Chrome 114.0.0.0,,,2023-07-03 23:55:01,2023-07-04 00:00:08,5m - 7.268s,PASSED
+,,,,,,,
+Test Cases/Appointment/Test_Case_Appointment,Chrome 114.0.0.0,,,2023-07-03 23:55:02,2023-07-04 00:00:08,5m - 6.514s,PASSED
+"callTestCase(findTestCase(""Login/Test_Case_Login""), [""email"":""bravo@gmail.com"", ""password"":""password
+"", ""headingText"":""Hello Again!"", ""paraText"":""Welcome Back""], STOP_ON_FAILURE)",Chrome 114.0.0.0,,,2023-07-03 23:55:04,2023-07-03 23:56:23,1m - 19.540s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-03 23:56:23,2023-07-03 23:56:25,2.042s,PASSED
+"click(findTestObject(""Appointment_Objects/a_Book Now""))",Chrome 114.0.0.0,,,2023-07-03 23:56:25,2023-07-03 23:56:26,0.940s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-03 23:56:26,2023-07-03 23:56:28,2.014s,PASSED
+"click(findTestObject(""Appointment_Objects/p_Alex Barber""))",Chrome 114.0.0.0,,,2023-07-03 23:56:28,2023-07-03 23:56:29,0.924s,PASSED
+delay(2),Chrome 114.0.0.0,,,2023-07-03 23:56:29,2023-07-03 23:56:31,2.023s,PASSED
+try,Chrome 114.0.0.0,,,2023-07-03 23:56:31,2023-07-04 00:00:08,3m - 36.310s,FAILED
+catch (Exception e),Chrome 114.0.0.0,,,2023-07-04 00:00:08,2023-07-04 00:00:08,0.002s,PASSED
+Finally,Chrome 114.0.0.0,,,2023-07-04 00:00:08,2023-07-04 00:00:08,0.949s,PASSED

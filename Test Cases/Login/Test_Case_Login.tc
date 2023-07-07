@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Case_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>636d2aad-004c-4a46-8f2b-2633462ecb8e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4ac68bf8-d8a1-4692-bf69-9531c4be9433</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login_Test_data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4ac68bf8-d8a1-4692-bf69-9531c4be9433</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>5effde77-01db-4c32-9502-aa2058647d10</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4ac68bf8-d8a1-4692-bf69-9531c4be9433</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>7009e545-4027-4f49-9efb-578391559fd9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4ac68bf8-d8a1-4692-bf69-9531c4be9433</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>headingText</value>
+      <variableId>6326e23b-225b-4b91-85c8-043a3d4ba85a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4ac68bf8-d8a1-4692-bf69-9531c4be9433</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>paraText</value>
+      <variableId>ac99eeb2-76d5-4842-9770-fcd69642c65a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'bravo@gmail.com'</defaultValue>
+      <description></description>
+      <id>5effde77-01db-4c32-9502-aa2058647d10</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'password\r\n'</defaultValue>
+      <description></description>
+      <id>7009e545-4027-4f49-9efb-578391559fd9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hello Again!'</defaultValue>
+      <description></description>
+      <id>6326e23b-225b-4b91-85c8-043a3d4ba85a</id>
+      <masked>false</masked>
+      <name>headingText</name>
+   </variable>
+   <variable>
+      <defaultValue>'Welcome Back'</defaultValue>
+      <description></description>
+      <id>ac99eeb2-76d5-4842-9770-fcd69642c65a</id>
+      <masked>false</masked>
+      <name>paraText</name>
+   </variable>
+</TestCaseEntity>
